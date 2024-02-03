@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/crk.test-yeonhwa.kro.kr/static/css/main.38ef806a.css",
-    "main.js": "/crk.test-yeonhwa.kro.kr/static/js/main.e76566cc.js",
-    "static/js/592.4552647b.chunk.js": "/crk.test-yeonhwa.kro.kr/static/js/592.4552647b.chunk.js",
-    "static/media/emblem.png": "/crk.test-yeonhwa.kro.kr/static/media/emblem.8d54351ec5fcfa7afa12.png",
-    "index.html": "/crk.test-yeonhwa.kro.kr/index.html",
-    "main.38ef806a.css.map": "/crk.test-yeonhwa.kro.kr/static/css/main.38ef806a.css.map",
-    "main.e76566cc.js.map": "/crk.test-yeonhwa.kro.kr/static/js/main.e76566cc.js.map",
-    "592.4552647b.chunk.js.map": "/crk.test-yeonhwa.kro.kr/static/js/592.4552647b.chunk.js.map"
+    "main.css": "/chocotea1008.github.io/yeonHwa/static/css/main.38ef806a.css",
+    "main.js": "/chocotea1008.github.io/yeonHwa/static/js/main.bfe3cb0a.js",
+    "static/js/592.4552647b.chunk.js": "/chocotea1008.github.io/yeonHwa/static/js/592.4552647b.chunk.js",
+    "static/media/emblem.png": "/chocotea1008.github.io/yeonHwa/static/media/emblem.8d54351ec5fcfa7afa12.png",
+    "index.html": "/chocotea1008.github.io/yeonHwa/index.html",
+    "main.38ef806a.css.map": "/chocotea1008.github.io/yeonHwa/static/css/main.38ef806a.css.map",
+    "main.bfe3cb0a.js.map": "/chocotea1008.github.io/yeonHwa/static/js/main.bfe3cb0a.js.map",
+    "592.4552647b.chunk.js.map": "/chocotea1008.github.io/yeonHwa/static/js/592.4552647b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38ef806a.css",
-    "static/js/main.e76566cc.js"
+    "static/js/main.bfe3cb0a.js"
   ]
 }
